@@ -1,0 +1,9 @@
+﻿## Interface: 20200
+## Title: BasicBuffHide
+## Notes: Hide the Blizzard Buff frame
+## Author: Funkydude
+## X-Category: Buffs
+## X-Website: http://wowace.com/wiki/BasicBuffHide
+## Version: 1.0
+
+BasicBuffHide.lua
