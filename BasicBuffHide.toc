@@ -1,8 +1,9 @@
-## Interface: 30000
+## Interface: 50001
 ## Title: BasicBuffHide
 ## Notes: Hide the Blizzard Buff frame
 ## Author: Funkydude
 ## X-Category: Buffs
-## Version: 1.1
+## Version: 1.2
 
 BasicBuffHide.lua
+
