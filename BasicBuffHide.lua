@@ -12,3 +12,7 @@ TemporaryEnchantFrame:UnregisterAllEvents()
 TemporaryEnchantFrame:Hide()
 TemporaryEnchantFrame:HookScript("OnShow", hide)
 
+ConsolidatedBuffs:UnregisterAllEvents()
+ConsolidatedBuffs:Hide()
+ConsolidatedBuffs:HookScript("OnShow", hide)
+
