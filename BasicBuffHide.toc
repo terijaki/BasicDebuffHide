@@ -3,7 +3,7 @@
 ## Notes: Hide the Blizzard Buff frame
 ## Author: Funkydude
 ## X-Category: Buffs
-## Version: 1.2.2
+## Version: 1.22
 
 BasicBuffHide.lua
 
