@@ -2,7 +2,11 @@
 ## Title: BasicBuffHide
 ## Notes: Hide the Blizzard Buff frame
 ## Author: Funkydude
+## Version: @project-version@
 ## X-Category: Buffs
+## X-License: All Rights Reserved: You are free to fork and modify on GitHub, please ask us about anything else.
+## X-Curse-Project-ID: basic-buff-hide
+## X-WoWI-ID: 21687
 
 BasicBuffHide.lua
 
