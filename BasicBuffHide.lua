@@ -2,13 +2,14 @@
 ------------------BASIC BUFF HIDE-----------------
 --------------------------------------------------
 
-local hide = function(frame) frame:Hide() end
+local f = CreateFrame("Frame")
+f:Hide()
 
-BuffFrame:UnregisterAllEvents()
-BuffFrame:Hide()
-BuffFrame:HookScript("OnShow", hide)
+f.UnregisterAllEvents(BuffFrame)
+f.Hide(BuffFrame)
+f.SetParent(BuffFrame, f)
 
-TemporaryEnchantFrame:UnregisterAllEvents()
-TemporaryEnchantFrame:Hide()
-TemporaryEnchantFrame:HookScript("OnShow", hide)
+f.UnregisterAllEvents(TemporaryEnchantFrame)
+f.Hide(TemporaryEnchantFrame)
+f.SetParent(TemporaryEnchantFrame, f)
 
