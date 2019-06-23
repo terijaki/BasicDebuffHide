@@ -2,4 +2,4 @@
 Hides the Blizzard Buff frame, does nothing else.
 
 ## Download
-https://mods.curse.com/addons/wow/basic-buff-hide
+https://www.curseforge.com/wow/addons/basic-buff-hide
