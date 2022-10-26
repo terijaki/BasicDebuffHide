@@ -1,4 +1,4 @@
-## Interface: 90207
+## Interface: 100000
 ## Title: BasicBuffHide
 ## Notes: Hide the Blizzard Buff frame
 ## Author: Funkydude
