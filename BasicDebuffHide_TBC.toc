@@ -1,0 +1,9 @@
+## Interface: 20504
+## Title: BasicDebuffHide
+## Notes: Hide the Blizzard Debuff frame
+## Author: Funkydude
+## Version: @project-version@
+## X-Category: Buffs
+
+BasicDebuffHide.lua
+
