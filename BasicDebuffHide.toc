@@ -1,8 +1,8 @@
-## Interface: 100002
+## Interface: 11502, 20504, 30403, 40400, 100207, 110000
 ## Title: BasicDebuffHide
 ## Notes: Hide the Blizzard Debuff frame
-## Author: Funkydude
-## Version: @project-version@
+## Author: Funkydude, Terijaki
+## Version: v10.0.1
 ## X-Category: Buffs
 
 BasicDebuffHide.lua
